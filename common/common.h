@@ -9,6 +9,9 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <set>
+#include <queue>
+#include <deque>
+#include <stack>
 using namespace std;
 
 #define max(a,b) (((a) > (b)) ? (a) : (b))
