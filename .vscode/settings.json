@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "exception": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "xstring": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "disabled", //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",  //  需要添加的
+
+}
