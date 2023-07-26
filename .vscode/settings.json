@@ -6,7 +6,11 @@
         "exception": "cpp",
         "memory": "cpp",
         "utility": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "sstream": "cpp"
     },
     "C_Cpp.intelliSenseEngineFallback": "disabled", //需要添加的
     "C_Cpp.intelliSenseEngine": "Tag Parser",  //  需要添加的
